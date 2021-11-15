@@ -88,6 +88,7 @@ public class HiLowGame {
 			this.resetGame();
 			result = GuessReport.GUESS_LIMIT_REACHED;
 		}
+		
 		return result;
 	}
 
